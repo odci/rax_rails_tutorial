@@ -1,4 +1,4 @@
-#Building a Simple Server Management Application with Ruby On Rails
+#Building a Simple Server Management Application with Ruby On Rails [![Kite](https://usekite.com/live-demo-button.png)](https://usekite.com/deploy)
 
 ##Introduction
 
